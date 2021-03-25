@@ -8,7 +8,7 @@ Check the response to see if it's okay. In the case the response is not okay, co
 ```js
 // the parameter given to the callback function
 // inside the "then" method is the response.
-// Check the resources to see what data the Response object contains
+// Check the linked resources to see what data the Response object contains
 fetch(url).then((response) => {
   console.log(response); //<- This logs the response
 });
