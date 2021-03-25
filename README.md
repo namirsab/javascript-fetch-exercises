@@ -1,6 +1,7 @@
 # Exercises with the fetch API
 
-Little exercises to be solved using the fetch API to learn the syntax.
+Little exercises to be solved using the fetch API to learn the syntax and to learn how to use a external
+API and to use the data to change the DOM.
 
 ## Resources
 
